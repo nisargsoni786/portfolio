@@ -30,7 +30,7 @@ function About() {
               <div class="col-lg-6">
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>21</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bechlors</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelors</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <a style={{textDecoration:'none'}} href="mailto:nisargsoni786@gmail.com"> nisargsoni786@gmail.com</a> </li>
                 </ul>
               </div>
